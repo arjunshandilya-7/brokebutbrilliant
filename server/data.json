@@ -1,0 +1,40 @@
+{
+  "budget": 12000,
+  "upiHandle": "",
+  "upiConnected": false,
+  "expenses": [
+    {
+      "id": "seed-1",
+      "title": "Cappuccino & sandwich",
+      "category": "Food",
+      "amount": 185,
+      "date": "2026-11-18",
+      "paidVia": "UPI"
+    },
+    {
+      "id": "seed-2",
+      "title": "Metro top-up",
+      "category": "Travel",
+      "amount": 250,
+      "date": "2026-11-17",
+      "paidVia": "UPI"
+    },
+    {
+      "id": "seed-3",
+      "title": "Studio supplies",
+      "category": "Study",
+      "amount": 420,
+      "date": "2026-11-16",
+      "paidVia": "Card"
+    },
+    {
+      "id": "seed-4",
+      "title": "Late-night momos",
+      "category": "Food",
+      "amount": 120,
+      "date": "2026-11-15",
+      "paidVia": "UPI"
+    }
+  ],
+  "requests": []
+}
